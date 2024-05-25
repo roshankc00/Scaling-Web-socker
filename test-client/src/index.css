@@ -1,0 +1,19 @@
+.input-messesage {
+  border: 2px solid blue;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+.btn {
+  background-color: black;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+}
